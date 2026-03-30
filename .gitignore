@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
